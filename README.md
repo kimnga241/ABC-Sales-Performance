@@ -16,22 +16,16 @@ Dự án **ABC Sales Performance** nhằm phân tích toàn diện dữ liệu b
 - Xác định yếu tố ảnh hưởng đến hiệu quả kinh doanh.
 - Đề xuất chiến lược cải thiện hiệu suất bán hàng.
 
----
-
-## 🛠️ Tech Stack
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Power BI**: Dashboard trực quan  
-- **Excel**: Data preprocessing & quick analysis
 
 ---
 
 ## 🔍 Key Analyses
-- Sales & Profit Trend Analysis  
-- Product Category Performance  
-- Customer Purchase Behavior  
-- AOV, Purchase Cycle & Retention Metrics  
-- Seasonal & Monthly Sales Patterns  
-- High-level Performance Drivers
+- Phân tích xu hướng doanh thu & lợi nhuận
+- Hiệu suất theo danh mục sản phẩm
+- Hành vi mua hàng của khách hàng
+- Giá trị đơn hàng trung bình (AOV), chu kỳ mua và chỉ số giữ chân khách hàng
+- Xu hướng doanh số theo mùa và theo tháng
+- Đánh giá khách hàng 
 
 ---
 
